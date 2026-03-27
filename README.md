@@ -1,0 +1,2 @@
+Para este codigo funcionar é necessario criar uma pasta tmp em algum lugar que terá de ser especificado ao rodar o programa, nesta pasta deve ser criado um arquivo input.csv com conteudo linha a linha no padrao: <nome>,<preco>,<quantidade>
+O programa criará uma pasta out\ na pasta mae tmp\ e dentro da 'out' criará um arquivo summary.csv que conterá em seu conteudo linha por linha:<nome>,<valorTotal>
